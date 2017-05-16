@@ -1,9 +1,10 @@
 .ui-id-36{  width: 719px; top: -107.5px; left: 560.5px; }
-.ui-id-37{ width: 433px; top: 210px; left: 69px; cursor: default;}
-.ui-id-38{ top: 388px; left: 65.5px; width: 181px; cursor: default;}
-.ui-id-39{ width: 151px; top: 2px; left: 70px;}
-.ui-id-40{  width: 250px; top: 195px; left: 57.5px; cursor: default; text-align: center; }
-.ui-id-41{  width: 250px; top: 163px; left: 58px; cursor: default; text-align: center; }
+.ui-id-37{ width: 433px; top: 264px; left: 72.5px; cursor: default;}
+.ui-id-38{ top: 580px; left: 73px; width: 181px; cursor: default;}
+.ui-id-39{  width: 184px; top: 2px; left: 70px; }
+.ui-id-67{ width: 250px; top: 445px; left: 78px; cursor: default;}
+.ui-id-40{ width: 250px; top: 196px; left: 58px; cursor: default; text-align: center;}
+.ui-id-41{ width: 250px; top: 163px; left: 58px; cursor: default; text-align: center;}
 .ui-id-42{  width: 250px; top: 195px; left: 363px; cursor: default; text-align: center; }
 .ui-id-43{  width: 250px; top: 163px; left: 355px; cursor: default; text-align: center; }
 .ui-id-44{  width: 250px; top: 195px; left: 664.5px; cursor: default; text-align: center; }
@@ -11,33 +12,33 @@
 .ui-id-46{  width: 146px; top: 17px; left: 110px; }
 .ui-id-47{  width: 149px; top: 15.5px; left: 405.5px; }
 .ui-id-48{  width: 140px; top: 20px; left: 716px; }
-.ui-id-49{  top: 304px; left: 378.82px; cursor: default; text-align: center; }
+.ui-id-49{ top: -24px; left: 79px; cursor: default; text-align: center;}
 .ui-id-50{  width: 85px; top: 95px; left: 82px; }
 .ui-id-51{  width: 156px; top: 63px; left: 190.5px; }
-.ui-id-52{  width: 250px; top: 124px; left: 546.5px; cursor: default; }
-.ui-id-53{  width: 250px; top: 86px; left: 547px; cursor: default; }
+.ui-id-52{ width: 250px; top: 124px; left: 546.5px; cursor: default; text-align: center;}
+.ui-id-53{ width: 250px; top: 85px; left: 547px; cursor: default; text-align: center;}
 .ui-id-54{  width: 88px; top: 386px; left: 746px; }
 .ui-id-55{  width: 185px; top: 387px; left: 555.5px; }
-.ui-id-56{  width: 250px; top: 457px; left: 85.5px; cursor: default; }
-.ui-id-57{  width: 250px; top: 401px; left: 86px; cursor: default; }
+.ui-id-56{ width: 250px; top: 457px; left: 85.5px; cursor: default; text-align: center;}
+.ui-id-57{ width: 250px; top: 401px; left: 86px; cursor: default; text-align: center;}
 .ui-id-58{  width: 77px; top: 109px; left: 372px; }
 .ui-id-59{  width: 138px; top: 765.5px; left: 86.5px; }
 .ui-id-60{  width: 111px; top: 743px; left: 250px; }
-.ui-id-61{  width: 250px; top: 793px; left: 557px; cursor: default; }
-.ui-id-62{  width: 250px; top: 755px; left: 557px; cursor: default; }
+.ui-id-61{ width: 250px; top: 791px; left: 557px; cursor: default; text-align: center;}
+.ui-id-62{ width: 250px; top: 755px; left: 557px; cursor: default; text-align: center;}
 .ui-id-63{  top: 1171px; left: 395px; cursor: default; }
 .ui-id-64{  width: 539px; top: 1025px; left: 210.5px; cursor: default; text-align: center; }
 .ui-id-65{  top: 40.5px; left: 777.375px; cursor: default; }
 .ui-id-66{  width: 71px; top: 8px; left: 18px; }
-.ui-id-1{  height: 476px; background: rgb(255, 255, 255); }
+.ui-id-1{  height: 667px; background: rgb(255, 255, 255); }
 .ui-id-2{  height: 331px; }
 .ui-id-3{  height: 1272px; background: rgb(255, 255, 255); }
 .ui-id-4{  height: 113px; }
 /* Small screen styling */ 
 @media screen and (max-width: 620px), screen and (-webkit-min-device-pixel-ratio: 1.5) and (max-device-height: 720px) and (max-device-width: 1280px) and (max-width: 999px), screen and (-webkit-min-device-pixel-ratio: 1.5) and (max-device-width: 1000px) and (max-width: 999px) { 
-.ui-id-36{  width: 482px; top: 410.5px; left: -5px; }
-.ui-id-37{  width: 354px; top: 240.5px; left: 42.5px; cursor: default; text-align: left; }
-.ui-id-38{  top: 468px; left: 43.5px; width: 181px; }
+.ui-id-36{ width: 482px; top: 514px; left: 19px;}
+.ui-id-37{  width: 354px; top: 272.5px; left: 38.5px; cursor: default; text-align: left; }
+.ui-id-38{ top: 560px; left: 34.5px; width: 181px;}
 .ui-id-39{  width: 172px; top: 15px; left: 114px; }
 .ui-id-40{  width: 250px; top: 196px; left: 71px; cursor: default; text-align: center; }
 .ui-id-41{  width: 250px; top: 163px; left: 71px; cursor: default; text-align: center; }
@@ -71,4 +72,5 @@
 .ui-id-3{  height: 1388px; background: rgb(255, 255, 255); }
 .ui-id-4{  height: 110px; }
 .undefined{  top: 11.5px; left: 9.5px; }
+.ui-id-67{ width: 250px; top: 465px; left: 39.5px; cursor: default;}
 }

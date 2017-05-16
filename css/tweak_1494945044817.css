@@ -1,8 +1,8 @@
-.ui-id-36{  width: 826px; top: -107.5px; left: 453.5px; }
-.ui-id-37{ width: 433px; top: 210px; left: 47px; cursor: default;}
+.ui-id-36{  width: 719px; top: -107.5px; left: 560.5px; }
+.ui-id-37{  width: 433px; top: 210px; left: 47px; cursor: default; }
 .ui-id-38{  top: 392px; left: 44px; width: 181px; cursor: default; }
-.ui-id-68{ width: 151px; top: 7px; left: 48px;}
-.ui-id-40{ width: 250px; top: 195px; left: 57.5px; cursor: default; text-align: center;}
+.ui-id-39{  width: 151px; top: 7px; left: 48px; }
+.ui-id-40{  width: 250px; top: 195px; left: 57.5px; cursor: default; text-align: center; }
 .ui-id-41{  width: 250px; top: 163px; left: 58px; cursor: default; text-align: center; }
 .ui-id-42{  width: 250px; top: 195px; left: 363px; cursor: default; text-align: center; }
 .ui-id-43{  width: 250px; top: 163px; left: 355px; cursor: default; text-align: center; }
@@ -27,17 +27,18 @@
 .ui-id-62{  width: 250px; top: 755px; left: 557px; cursor: default; }
 .ui-id-63{  top: 1171px; left: 395px; cursor: default; }
 .ui-id-64{  width: 539px; top: 1025px; left: 210.5px; cursor: default; text-align: center; }
-.ui-id-65{ top: 40.5px; left: 777.375px; cursor: default;}
-.ui-id-67{ width: 71px; top: 8px; left: 18px;}
-.ui-id-1{  height: 542px; background: rgb(255, 255, 255); }
+.ui-id-65{  top: 40.5px; left: 777.375px; cursor: default; }
+.ui-id-66{  width: 71px; top: 8px; left: 18px; }
+.ui-id-1{  height: 476px; background: rgb(255, 255, 255); }
 .ui-id-2{  height: 331px; }
 .ui-id-3{  height: 1272px; background: rgb(255, 255, 255); }
-.ui-id-4{ height: 113px;}
+.ui-id-4{  height: 113px; }
 /* Small screen styling */ 
 @media screen and (max-width: 620px), screen and (-webkit-min-device-pixel-ratio: 1.5) and (max-device-height: 720px) and (max-device-width: 1280px) and (max-width: 999px), screen and (-webkit-min-device-pixel-ratio: 1.5) and (max-device-width: 1000px) and (max-width: 999px) { 
-.ui-id-36{ width: 482px; top: 410.5px; left: -5px;}
-.ui-id-37{ width: 354px; top: 240.5px; left: 42.5px; cursor: default; text-align: left;}
-.ui-id-38{ top: 468px; left: 43.5px; width: 181px;}
+.ui-id-36{  width: 482px; top: 410.5px; left: -5px; }
+.ui-id-37{  width: 354px; top: 240.5px; left: 42.5px; cursor: default; text-align: left; }
+.ui-id-38{  top: 468px; left: 43.5px; width: 181px; }
+.ui-id-39{  width: 172px; top: 15px; left: 114px; }
 .ui-id-40{  width: 250px; top: 196px; left: 71px; cursor: default; text-align: center; }
 .ui-id-41{  width: 250px; top: 163px; left: 71px; cursor: default; text-align: center; }
 .ui-id-42{  width: 250px; top: 487px; left: 75px; cursor: default; text-align: center; }
@@ -63,12 +64,11 @@
 .ui-id-62{  width: 250px; top: 787px; left: 86px; cursor: default; text-align: center; }
 .ui-id-63{  top: 1265px; left: 115px; }
 .ui-id-64{  width: 353px; top: 1081px; left: 23.5px; cursor: default; text-align: center; }
-.ui-id-65{  top: 13.5px; left: 253.375px; }
-.ui-id-1{ height: 795px; background: rgb(255, 255, 255);}
+.ui-id-65{  top: 40.5px; left: 257.375px; }
+.ui-id-66{  width: 71px; top: 8px; left: 18px; }
+.ui-id-1{  height: 795px; background: rgb(255, 255, 255); }
 .ui-id-2{  height: 851px; }
 .ui-id-3{  height: 1388px; background: rgb(255, 255, 255); }
-.ui-id-4{  height: 46px; }
+.ui-id-4{  height: 110px; }
 .undefined{  top: 11.5px; left: 9.5px; }
-.ui-id-68{ width: 172px; top: 15px; left: 114px;}
-.ui-id-67{ width: 71px; top: 8px; left: 18px;}
 }

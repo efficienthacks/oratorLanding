@@ -75,6 +75,24 @@ a:active {
     height: 100%
 }
 
+.section-slant {
+    position: absolute;
+    width: 100%;
+    height: 60%;
+    z-index: -1;
+    transform-origin: 0;
+    transform: skewY(-14deg);
+}
+
+.gradient-stripe {
+    position: absolute;
+    width: 100%;
+    height: 60%;
+    background-image: linear-gradient(to top, rgba(27, 139, 249, 0.4) 0%, #b490ca 100%);
+    transform-origin: 0;
+    transform: skewY(-14deg);
+}
+
 .component {
     position: absolute
 }
